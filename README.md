@@ -152,5 +152,5 @@ This script simplifies the process of generating PDF reports from sales data. Wh
 By utilizing Python's powerful libraries, "pandas" for data analysis and "FPDF" for PDF generation, this script offers a reliable and customizable solution to automate report generation.
 
 # OUTPUT
-
+![Image](https://github.com/user-attachments/assets/bfbe4084-d457-49aa-946b-b80b16b7bb5f)
 
